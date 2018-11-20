@@ -5,9 +5,9 @@
 Nous nous sommes arrêtés aux logs Nginx.
 Notre interface graphique de Kibana ne semble pas fonctionner et affiche une erreur en lien avec Elasticsearch.
 
-## Lien CircleCI
+## CircleCI
 
-https://circleci.com/gh/ImMyst/docker-symfony/tree/master
+[Lien CircleCI](https://circleci.com/gh/ImMyst/docker-symfony/tree/master)
 
 Fait avec :heart: par :
 
