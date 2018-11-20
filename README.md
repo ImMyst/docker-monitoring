@@ -2,7 +2,8 @@
 
 ## Avancement
 
-Nous allons commencer par les logs Nginx
+Nous nous sommes arrêtés aux logs Nginx.
+Notre interface graphique de Kibana ne semble pas fonctionner et affiche une erreur en lien avec Elasticsearch.
 
 ## Lien CircleCI
 
